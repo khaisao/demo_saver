@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.anggrayudi:storage:0.5.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fa756a17f3bd26a4baa1dfc8625a041a/transformed/jetified-storage-0.5.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fa756a17f3bd26a4baa1dfc8625a041a/transformed/jetified-storage-0.5.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fa756a17f3bd26a4baa1dfc8625a041a/transformed/jetified-storage-0.5.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.anggrayudi/storage/0.5.3/2380043000464b1220143a1b52b167f493a32194/storage-0.5.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.anggrayudi/storage/0.5.3/f82433ca624d1e73f133e92e3a3f77aacd943f6/storage-0.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

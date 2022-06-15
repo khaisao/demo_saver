@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Descargador de Estados</string>
+    <string name="photos">Fotos</string>
+    <string name="menu_videos">Videos</string>
+    <string name="menu_saved">Guardados</string>
+    <string name="follow_me_on_instagram">Sígueme en Instagram</string>
+    <string name="videos">Videos</string>
+    <string name="privacy_policy">Politica de Privacidad</string>
+    <string name="about">Acerca de</string>
+    <string name="change_theme">Cambiar tema</string>
+    <string name="saved">Estado guardado, presiona para ver!</string>
+    <string name="no_photos_available">No hay fotos disponibles</string>
+    <string name="an_error_occured">Ha ocurrido un error!</string>
+    <string name="no_videos_available">No hay videos disponibles</string>
+    <string name="saved_s">Guardado correctamente!</string>
+    <string name="save_s_long">Guardado en el directorio /Pictures.</string>
+    <string name="error">Error</string>
+    <string name="error_long">Ha ocurrido un error mientras se guardaba, intente de nuevo!</string>
+    <string name="save_s_long_video">Guardado en el directorio /Movies.</string>
+    <string name="privacy_infos">Librerías de terceros</string>
+    <string name="alert_libs_title">Librerías de terceros</string>
+    <string name="storage_access">Acceso al almacenamiento</string>
+    <string name="alert_long">Para poder utilizar esta app es necesario que permitas acceder al almacenamiento para poder obtener los estados.\nTodos los archivos serán almacenados localmente y NO seran compartidos ni enviados a NADIE.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="toast_no_permissions">La aplicación no puede funcionar sin el permiso de almacenamiento!</string>
+    <string name="storage_access_required">Permiso de almacenamiento necesario!</string>
+    <string name="allow">Permitir</string>
+    <string name="error_contact_dev">Algo anduvo mal, intenta de nuevo o contacta al desarrollador!</string>
+
+    <string name="datenschutz_einwilligung">Concentimiento de Protección de Datos</string>
+    <string name="gdpr_text_one">Nos preocupamos por tu privacidad y la seguridad de tus datos. Mantenemos esta app gratuita por el uso de servicios de terceros.</string>
+    <string name="gdpr_long_two">Utilizamos anuncios en esta app. Este servicio (Incluyendo nuestros socios) recolectamos identificadores únicos y otros datos personales. Tu puedes cambiarlo en cualquier momento en los ajustes.</string>
+    <string name="gdpr_text_three"><u>Leer mas sobre este servicio y tus datos personales.</u></string>
+    <string name="gdpr_text_four">¿Podemos utilizar tus datos para ese proposito al igual que para mostrar anuncios personalizados?</string>
+    <string name="gdpr_text_five">Al aceptar, confirmas que eres mayor de 16 años.</string>
+    <string name="gdpr_button_one">Si, estoy de acuerdo</string>
+    <string name="nein_danke">No, gracias</string>
+    <string name="gdpr_text_seven">Comprendo que seguire viendo anuncios, pero pueden no ser relevantes para mis intereses.</string>
+    <string name="privacy_action">Consentimiento de privacidad</string>
+    <string name="text_gdpr_eight">Utilizamos los siguientes servicios de terceros en esta app:</string>
+    <string name="admob_show_partners">-<u> Admob (Mostrar socios)</u></string>
+    <string name="text_gdpr_nine">Presiona sobre un servicio para ver su política de privacidad.</string>
+    <string name="btn_back_gdpr">Volver</string>
+
+</resources>

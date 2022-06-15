@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lazygeniouz:documentfile_compat:0.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0b836d77bb86de42a03e780a7e2e516d/transformed/jetified-documentfile_compat-0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0b836d77bb86de42a03e780a7e2e516d/transformed/jetified-documentfile_compat-0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0b836d77bb86de42a03e780a7e2e516d/transformed/jetified-documentfile_compat-0.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lazygeniouz/documentfile_compat/0.8/8b5ffd6f0bd957c42042682df686e4e55798aba2/documentfile_compat-0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lazygeniouz/documentfile_compat/0.8/384d54100e9f507f1e742e256ea3ceadf38ac021/documentfile_compat-0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
